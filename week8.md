@@ -1,5 +1,5 @@
 
-### Supreme Week 8
+### Supreme Week 8 CDG
 | **Item**                                                                         | **Catagory**  | **Colors**                                                                          | **Size**    | **Keyword** |
 | :--------------------------------------------------------------------------------|:-------------:| :-----------------------------------------------------------------------------------|:------------|:------------|
 | Supreme®/Comme des Garçons SHIRT® Box Logo Hooded Sweatshirt                     | Sweatshirts   | Black, White                                                                        | S, M, L, XL | Box Logo    |
