@@ -6,9 +6,8 @@
 | Supreme®/Comme des Garçons SHIRT® Box Logo Tee                                   | T-Shirts      | Black, White                                                                        | S, M, L, XL | Box Logo    |
 | Supreme®/Comme des Garçons SHIRT® Lightweight Polyurethane Coated Fishtail Parka | Jackets       | Black                                                                               | S, M, L, XL | Polyurethane|
 | Supreme®/Comme des Garçons SHIRT® Cotton gabardine 3-Button Suit                 | Tops/Sweaters | Black, White                                                                        | S, M, L, XL | Eyes        |
-| Supreme®/Comme des Garçons SHIRT® Eyes Rayon Shirt                               | Shirts        | White, Dusty Green, Magenta                                                         | S, M, L, XL | Coin        |
-| Supreme®/Comme des Garçons SHIRT® Eyes Coin Pouch                                | Accessories   | White, Magenta                                                                      | N/A         | Wallet      |
-| Supreme®/Comme des Garçons SHIRT® Eyes Wallet                                    | Accessories   | White, Magenta                                                                      | N/A         | Records     |
+| Supreme®/Comme des Garçons SHIRT® Eyes Rayon Shirt                               | Shirts        | White, Dusty Green, Magenta                                                         | S, M, L, XL | Comme       |
+| Supreme®/Comme des Garçons SHIRT® Eyes Wallet + Coin Pouch                       | Accessories   | White, Magenta                                                                      | N/A         | Wallet      |
 | Quilted Satin Varsity Jacket                                                     | Jacketes      | Royal, Black, Magenta                                                               | S, M, L, XL | Quilted     |
 | 3M® Reflective Excellence Half Zip Sweat                                         | Sweatshirts   | Orange, White, Black, Red, Dark Green, Navy, Dusty Pink                             | S, M, L, XL | Excellence  |
 | Supreme®/Playboy© S/S Henley Top                                                 | Tops/Sweaters | Royal, Black, Dark Pink, White, Brown                                               | S, M, L, XL | Playboy     |
