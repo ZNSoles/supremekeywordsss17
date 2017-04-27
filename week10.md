@@ -17,4 +17,5 @@
 | Corduroy Camp Cap                                                                | Hats          | Red, Black, Brown, Peach, Royla, Yellow                                             | N/A         | Corduroy Camp  |
 | 666 Oval Pin                                                                     | Accessories   | N/A                                                                                 | N/A         | 666            |
 | Go Fuck Yourself Bandana                                                         | Accessories   | Black, Red, Navy, White                                                             | N/A         | Bandana        |
+| Satin Logo Hooded Sweatshirt                                                     | Sweatshirts   | Ash Grey, Pink, Dark Green, Gold, Navy, Black                                       | S, M, L, XL | Satin Logo     |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
