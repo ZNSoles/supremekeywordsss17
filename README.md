@@ -1,6 +1,5 @@
-# supremekeywordsss17
-Keywords for Supreme SS17
+# Supreme Keywords - SS17
 
-Everything Is Subject To Change so check back often
+All keywords displayed are not final until an update has been pushed regarding the UK drop (first to drop).
 
-NOTHING IS FINAL UNTIL AFTER UK DROP
+All other keywords are estimations and information from in-store releases.
