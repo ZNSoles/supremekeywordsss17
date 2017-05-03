@@ -19,4 +19,8 @@
 | Reflective Half Zip Pullover                                                     | Jackets       | Brown, Burgundy, Black, Royal                                                       | S, M, L, XL | Half Zip       |
 | Eastern Floral 5-Panel                                                           | Hats          | Unknown(Hard to tell)                                                               | N/A         | Floral         |
 | Reflective Camp Cap                                                              | Hats          | Burgundy, Royal, Brown, Black                                                       | N/A         | Reflective     |
+| Backpack                                                                         | Accessories   | Black, Pink, Royal, Acid Green                                                      | N/A         | Backpack       |
+| Duffle Bag                                                                       | Accessories   | Black, Pink, Royal, Acid Green                                                      | N/A         | Duffle         |
+| Waist Bag                                                                        | Accessories   | Black, Pink, Royal, Acid Green                                                      | N/A         | Waist          |
+| Shoulder Bag                                                                     | Accessories   | Black, Pink, Royal, Acid Green                                                      | N/A         | Shoulder       |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
