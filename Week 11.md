@@ -4,7 +4,7 @@
 ### Supreme Week 11 
 | **Item**                                                                         | **Catagory**  | **Colors**                                                                          | **Size**    | **Keyword**    |
 | :--------------------------------------------------------------------------------|:-------------:| :-----------------------------------------------------------------------------------|:------------|:---------------|
-| M.C. Escher/Supreme Trench Coat                                                  | Jackets       | Black                                                                               | S, M, L, XL | Uptempo        |
+| M.C. Escher/Supreme Trench Coat                                                  | Jackets       | Black                                                                               | S, M, L, XL | Escher        |
 | M.C. Escher/Supreme Baseball Jersey                                              | Tops/Sweaters | Black, White, Pink, Blue                                                            | S, M, L, XL | Escher         |
 | M.C. Escher/Supreme Collage Tee                                                  | Tops/Sweaters | Black, White, Pink, Blue                                                            | S, M, L, XL | Escher         |
 | M.C. Escher/Supreme Eye L/S Tee                                                  | Tops/Sweaters | Black, White, Pink, Blue                                                            | S, M, L, XL | Escher         |
