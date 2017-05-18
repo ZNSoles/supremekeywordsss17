@@ -14,7 +14,7 @@
 | Hearts Harrington Jacket                                                         | Jackets       | Blue, Black, Pale Yellow                                                            | S, M, L, XL | Hearts         |
 | Terry Crusher                                                                    | Hats          | Blue, Black, Pink, Navy, White                                                      | N/A         | Crusher        |
 | Denim Logo Camp Cap                                                              | Hats          | Blue, Navy, Red, Black                                                              | N/A         | Hearts         |
-| Supreme®/Artek® Aalto Stool 60                                                   | Accessories   | Random                                                                              | N/A         | Chair          |
+| Supreme®/Artek® Aalto Stool 60                                                   | Accessories   | Random                                                                              | N/A         | Stool          |
 | Backpack                                                                         | Accessories   | Black, Pink, Royal, Acid Green                                                      | N/A         | Backpack       |
 | Duffle Bag                                                                       | Accessories   | Black, Pink, Royal, Acid Green                                                      | N/A         | Duffle         |
 | Waist Bag                                                                        | Accessories   | Black, Pink, Royal, Acid Green                                                      | N/A         | Waist          |
